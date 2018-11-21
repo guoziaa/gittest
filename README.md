@@ -1,2 +1,2 @@
 # gittest
-添加readme文件
+添加readme.md文件
